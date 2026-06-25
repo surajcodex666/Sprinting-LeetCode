@@ -16,7 +16,6 @@ Welcome to my DSA repository! This repository contains my daily solutions to Dat
 
 - LeetCode
 - GeeksforGeeks
-- Coding Ninjas
 - Other coding platforms as needed
 
 ---
@@ -87,7 +86,7 @@ I am committed to solving and uploading at least one problem every day to mainta
 
 Add your profile link here:
 
-[LeetCode Profile](YOUR_LEETCODE_PROFILE_LINK)
+[LeetCode Profile](https://leetcode.com/u/Mikey09/)
 
 ---
 
@@ -95,11 +94,11 @@ Add your profile link here:
 
 Add your profile link here:
 
-[GitHub Profile](YOUR_GITHUB_PROFILE_LINK)
+[GitHub Profile](https://github.com/surajcodex666)
 
 ---
 
-## 📌 Topics Covered
+## 📌 Topics I'll Cover
 
 - Arrays
 - Strings
