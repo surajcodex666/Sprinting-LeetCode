@@ -139,6 +139,7 @@ Happy Coding! 💻✨
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/surajcodex666/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0560-subarray-sum-equals-k](https://github.com/surajcodex666/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [1480-running-sum-of-1d-array](https://github.com/surajcodex666/DSA/tree/master/1480-running-sum-of-1d-array) |
+| [3838-weighted-word-mapping](https://github.com/surajcodex666/DSA/tree/master/3838-weighted-word-mapping) |
 ## Hash Table
 |  |
 | ------- |
@@ -165,4 +166,9 @@ Happy Coding! 💻✨
 |  |
 | ------- |
 | [3110-score-of-a-string](https://github.com/surajcodex666/DSA/tree/master/3110-score-of-a-string) |
+| [3838-weighted-word-mapping](https://github.com/surajcodex666/DSA/tree/master/3838-weighted-word-mapping) |
+## Simulation
+|  |
+| ------- |
+| [3838-weighted-word-mapping](https://github.com/surajcodex666/DSA/tree/master/3838-weighted-word-mapping) |
 <!---LeetCode Topics End-->
