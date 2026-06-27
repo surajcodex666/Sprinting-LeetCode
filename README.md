@@ -134,6 +134,7 @@ Happy Coding! 💻✨
 ## Array
 |  |
 | ------- |
+| [0027-remove-element](https://github.com/surajcodex666/DSA/tree/master/0027-remove-element) |
 | [0118-pascals-triangle](https://github.com/surajcodex666/DSA/tree/master/0118-pascals-triangle) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/surajcodex666/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0560-subarray-sum-equals-k](https://github.com/surajcodex666/DSA/tree/master/0560-subarray-sum-equals-k) |
@@ -154,6 +155,7 @@ Happy Coding! 💻✨
 ## Two Pointers
 |  |
 | ------- |
+| [0027-remove-element](https://github.com/surajcodex666/DSA/tree/master/0027-remove-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/surajcodex666/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 ## Binary Search
 |  |
