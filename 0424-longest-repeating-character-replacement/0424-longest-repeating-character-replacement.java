@@ -13,7 +13,7 @@ class Solution {
 
             maxFreq = Math.max(maxFreq,freq[s.charAt(r) - 'A']);
 
-            while((r - l + 1) - maxFreq > k) {
+            while((r - l + 1) - maxFreq > k) { //checks if window is valid or how many elements needs replacement and if its valid or not means if its > k or not
 
                 freq[s.charAt(l) - 'A']--;
 
