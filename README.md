@@ -142,6 +142,7 @@ Happy Coding! 💻✨
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/surajcodex666/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0560-subarray-sum-equals-k](https://github.com/surajcodex666/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0904-fruit-into-baskets](https://github.com/surajcodex666/DSA/tree/master/0904-fruit-into-baskets) |
+| [0930-binary-subarrays-with-sum](https://github.com/surajcodex666/DSA/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/surajcodex666/DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [1480-running-sum-of-1d-array](https://github.com/surajcodex666/DSA/tree/master/1480-running-sum-of-1d-array) |
 | [3838-weighted-word-mapping](https://github.com/surajcodex666/DSA/tree/master/3838-weighted-word-mapping) |
@@ -152,11 +153,13 @@ Happy Coding! 💻✨
 | [0424-longest-repeating-character-replacement](https://github.com/surajcodex666/DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0560-subarray-sum-equals-k](https://github.com/surajcodex666/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0904-fruit-into-baskets](https://github.com/surajcodex666/DSA/tree/master/0904-fruit-into-baskets) |
+| [0930-binary-subarrays-with-sum](https://github.com/surajcodex666/DSA/tree/master/0930-binary-subarrays-with-sum) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/surajcodex666/DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 ## Prefix Sum
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/surajcodex666/DSA/tree/master/0560-subarray-sum-equals-k) |
+| [0930-binary-subarrays-with-sum](https://github.com/surajcodex666/DSA/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/surajcodex666/DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [1480-running-sum-of-1d-array](https://github.com/surajcodex666/DSA/tree/master/1480-running-sum-of-1d-array) |
 ## Dynamic Programming
@@ -193,6 +196,7 @@ Happy Coding! 💻✨
 | [0003-longest-substring-without-repeating-characters](https://github.com/surajcodex666/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0424-longest-repeating-character-replacement](https://github.com/surajcodex666/DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0904-fruit-into-baskets](https://github.com/surajcodex666/DSA/tree/master/0904-fruit-into-baskets) |
+| [0930-binary-subarrays-with-sum](https://github.com/surajcodex666/DSA/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/surajcodex666/DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/surajcodex666/DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 ## Trie
