@@ -142,6 +142,7 @@ Happy Coding! 💻✨
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/surajcodex666/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0560-subarray-sum-equals-k](https://github.com/surajcodex666/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0904-fruit-into-baskets](https://github.com/surajcodex666/DSA/tree/master/0904-fruit-into-baskets) |
+| [0905-sort-array-by-parity](https://github.com/surajcodex666/DSA/tree/master/0905-sort-array-by-parity) |
 | [0930-binary-subarrays-with-sum](https://github.com/surajcodex666/DSA/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/surajcodex666/DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/surajcodex666/DSA/tree/master/1248-count-number-of-nice-subarrays) |
@@ -176,6 +177,7 @@ Happy Coding! 💻✨
 | [0026-remove-duplicates-from-sorted-array](https://github.com/surajcodex666/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/surajcodex666/DSA/tree/master/0027-remove-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/surajcodex666/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0905-sort-array-by-parity](https://github.com/surajcodex666/DSA/tree/master/0905-sort-array-by-parity) |
 ## Binary Search
 |  |
 | ------- |
@@ -219,4 +221,8 @@ Happy Coding! 💻✨
 |  |
 | ------- |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/surajcodex666/DSA/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
+## Sorting
+|  |
+| ------- |
+| [0905-sort-array-by-parity](https://github.com/surajcodex666/DSA/tree/master/0905-sort-array-by-parity) |
 <!---LeetCode Topics End-->
