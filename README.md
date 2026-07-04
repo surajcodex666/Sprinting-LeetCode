@@ -180,6 +180,7 @@ Happy Coding! 💻✨
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/surajcodex666/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/surajcodex666/DSA/tree/master/0027-remove-element) |
+| [0125-valid-palindrome](https://github.com/surajcodex666/DSA/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/surajcodex666/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0349-intersection-of-two-arrays](https://github.com/surajcodex666/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0905-sort-array-by-parity](https://github.com/surajcodex666/DSA/tree/master/0905-sort-array-by-parity) |
@@ -194,6 +195,7 @@ Happy Coding! 💻✨
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/surajcodex666/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0014-longest-common-prefix](https://github.com/surajcodex666/DSA/tree/master/0014-longest-common-prefix) |
+| [0125-valid-palindrome](https://github.com/surajcodex666/DSA/tree/master/0125-valid-palindrome) |
 | [0424-longest-repeating-character-replacement](https://github.com/surajcodex666/DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/surajcodex666/DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/surajcodex666/DSA/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
