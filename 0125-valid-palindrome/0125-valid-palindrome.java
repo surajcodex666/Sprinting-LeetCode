@@ -12,10 +12,10 @@ class Solution {
         String s1 = s2.toLowerCase();
 
         int m = s1.length();
-        int l = 0 , r = m - 1;
+        int l = 0;
 
-        while(l < r){
-            if(s1.charAt(l++) != s1.charAt(r--)){
+            for(int i=l;i<m/2;i++){
+            if(s1.charAt(i) != s1.charAt(m-1-i)){
                 return false;
             }
         }
