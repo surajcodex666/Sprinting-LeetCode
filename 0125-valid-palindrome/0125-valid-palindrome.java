@@ -18,11 +18,7 @@ class Solution {
         int l = 0 , r = m - 1;
 
         while(l < r){
-            if(s1.charAt(l) == s1.charAt(r)){
-                l++;
-                r--;
-            }
-            else{
+            if(s1.charAt(l++) != s1.charAt(r--)){
                 return false;
             }
         }
