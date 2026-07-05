@@ -5,12 +5,13 @@ class Solution {
 
         int n = words.length;
 
-        for(int i = 0; i<n; i++){
+        for (int i = 0; i < n; i++) {
             String str = words[i];
-            if(str.contains(String.valueOf(x))) list.add(i);
-            }
+            if (str.indexOf(x) != -1)
+                list.add(i);
+        }
 
         return list;
-        
+
     }
 }
