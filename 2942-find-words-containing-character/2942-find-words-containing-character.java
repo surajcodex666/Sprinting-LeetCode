@@ -4,17 +4,13 @@ class Solution {
         ArrayList<Integer> list = new ArrayList<>();
 
         int n = words.length;
+        String pattern="";
+        pattern+=x;
 
         for(int i = 0; i<n; i++){
             String str = words[i];
-
-            for(int j = 0; j< str.length(); j++){
-                if(str.charAt(j) == x){
-                    list.add(i);
-                    break;
-                }
+            if(str.contains(pattern)) list.add(i);
             }
-        }
 
         return list;
         
