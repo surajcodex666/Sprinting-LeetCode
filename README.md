@@ -148,6 +148,7 @@ Happy Coding! 💻✨
 | [1004-max-consecutive-ones-iii](https://github.com/surajcodex666/DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/surajcodex666/DSA/tree/master/1248-count-number-of-nice-subarrays) |
 | [1480-running-sum-of-1d-array](https://github.com/surajcodex666/DSA/tree/master/1480-running-sum-of-1d-array) |
+| [2942-find-words-containing-character](https://github.com/surajcodex666/DSA/tree/master/2942-find-words-containing-character) |
 | [3668-restore-finishing-order](https://github.com/surajcodex666/DSA/tree/master/3668-restore-finishing-order) |
 | [3838-weighted-word-mapping](https://github.com/surajcodex666/DSA/tree/master/3838-weighted-word-mapping) |
 ## Hash Table
@@ -199,6 +200,7 @@ Happy Coding! 💻✨
 | [0424-longest-repeating-character-replacement](https://github.com/surajcodex666/DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/surajcodex666/DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/surajcodex666/DSA/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
+| [2942-find-words-containing-character](https://github.com/surajcodex666/DSA/tree/master/2942-find-words-containing-character) |
 | [3110-score-of-a-string](https://github.com/surajcodex666/DSA/tree/master/3110-score-of-a-string) |
 | [3838-weighted-word-mapping](https://github.com/surajcodex666/DSA/tree/master/3838-weighted-word-mapping) |
 ## Simulation
