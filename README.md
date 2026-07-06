@@ -145,6 +145,7 @@ Happy Coding! 💻✨
 | [0904-fruit-into-baskets](https://github.com/surajcodex666/DSA/tree/master/0904-fruit-into-baskets) |
 | [0905-sort-array-by-parity](https://github.com/surajcodex666/DSA/tree/master/0905-sort-array-by-parity) |
 | [0930-binary-subarrays-with-sum](https://github.com/surajcodex666/DSA/tree/master/0930-binary-subarrays-with-sum) |
+| [0969-pancake-sorting](https://github.com/surajcodex666/DSA/tree/master/0969-pancake-sorting) |
 | [0992-subarrays-with-k-different-integers](https://github.com/surajcodex666/DSA/tree/master/0992-subarrays-with-k-different-integers) |
 | [1004-max-consecutive-ones-iii](https://github.com/surajcodex666/DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/surajcodex666/DSA/tree/master/1248-count-number-of-nice-subarrays) |
@@ -188,6 +189,7 @@ Happy Coding! 💻✨
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/surajcodex666/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0349-intersection-of-two-arrays](https://github.com/surajcodex666/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0905-sort-array-by-parity](https://github.com/surajcodex666/DSA/tree/master/0905-sort-array-by-parity) |
+| [0969-pancake-sorting](https://github.com/surajcodex666/DSA/tree/master/0969-pancake-sorting) |
 | [2697-lexicographically-smallest-palindrome](https://github.com/surajcodex666/DSA/tree/master/2697-lexicographically-smallest-palindrome) |
 ## Binary Search
 |  |
@@ -245,8 +247,10 @@ Happy Coding! 💻✨
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/surajcodex666/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0905-sort-array-by-parity](https://github.com/surajcodex666/DSA/tree/master/0905-sort-array-by-parity) |
+| [0969-pancake-sorting](https://github.com/surajcodex666/DSA/tree/master/0969-pancake-sorting) |
 ## Greedy
 |  |
 | ------- |
+| [0969-pancake-sorting](https://github.com/surajcodex666/DSA/tree/master/0969-pancake-sorting) |
 | [2697-lexicographically-smallest-palindrome](https://github.com/surajcodex666/DSA/tree/master/2697-lexicographically-smallest-palindrome) |
 <!---LeetCode Topics End-->
