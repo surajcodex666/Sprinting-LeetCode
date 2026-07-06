@@ -8,11 +8,12 @@ class Solution {
 
         while(l < r){
             if(c[l] != c[r]){
-                char small = (char)Math.min(c[l],c[r]);
-
-                c[l] = small;
-                c[r] = small;
-
+                if(c[l]<c[r]) {
+                    c[r]=c[l];
+                }
+                else{
+                    c[l]=c[r];
+                }
 
             }
             l++;
