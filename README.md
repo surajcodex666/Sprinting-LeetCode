@@ -209,6 +209,7 @@ Happy Coding! 💻✨
 | [0076-minimum-window-substring](https://github.com/surajcodex666/DSA/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/surajcodex666/DSA/tree/master/0125-valid-palindrome) |
 | [0424-longest-repeating-character-replacement](https://github.com/surajcodex666/DSA/tree/master/0424-longest-repeating-character-replacement) |
+| [0709-to-lower-case](https://github.com/surajcodex666/DSA/tree/master/0709-to-lower-case) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/surajcodex666/DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/surajcodex666/DSA/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2697-lexicographically-smallest-palindrome](https://github.com/surajcodex666/DSA/tree/master/2697-lexicographically-smallest-palindrome) |
