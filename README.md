@@ -137,6 +137,7 @@ Happy Coding! 💻✨
 | [0014-longest-common-prefix](https://github.com/surajcodex666/DSA/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/surajcodex666/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/surajcodex666/DSA/tree/master/0027-remove-element) |
+| [0035-search-insert-position](https://github.com/surajcodex666/DSA/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/surajcodex666/DSA/tree/master/0066-plus-one) |
 | [0118-pascals-triangle](https://github.com/surajcodex666/DSA/tree/master/0118-pascals-triangle) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/surajcodex666/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -197,6 +198,7 @@ Happy Coding! 💻✨
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/surajcodex666/DSA/tree/master/0035-search-insert-position) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/surajcodex666/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0349-intersection-of-two-arrays](https://github.com/surajcodex666/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0704-binary-search](https://github.com/surajcodex666/DSA/tree/master/0704-binary-search) |
