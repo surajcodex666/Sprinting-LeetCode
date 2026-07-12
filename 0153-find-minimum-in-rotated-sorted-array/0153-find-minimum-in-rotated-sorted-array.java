@@ -9,6 +9,7 @@ class Solution {
             
             int mid = low + (high - low)/2;
 
+            //if already sorted the just return the nums[low]
             if(nums[low] <= nums[high]){
                 ans = Math.min(ans, nums[low]);
                 break;
