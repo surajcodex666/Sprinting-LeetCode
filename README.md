@@ -137,6 +137,7 @@ Happy Coding! 💻✨
 | [0014-longest-common-prefix](https://github.com/surajcodex666/DSA/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/surajcodex666/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/surajcodex666/DSA/tree/master/0027-remove-element) |
+| [0033-search-in-rotated-sorted-array](https://github.com/surajcodex666/DSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/surajcodex666/DSA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/surajcodex666/DSA/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/surajcodex666/DSA/tree/master/0066-plus-one) |
@@ -199,6 +200,7 @@ Happy Coding! 💻✨
 ## Binary Search
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/surajcodex666/DSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/surajcodex666/DSA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/surajcodex666/DSA/tree/master/0035-search-insert-position) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/surajcodex666/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
