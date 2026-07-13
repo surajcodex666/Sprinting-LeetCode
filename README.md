@@ -147,6 +147,7 @@ Happy Coding! 💻✨
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/surajcodex666/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/surajcodex666/DSA/tree/master/0189-rotate-array) |
 | [0349-intersection-of-two-arrays](https://github.com/surajcodex666/DSA/tree/master/0349-intersection-of-two-arrays) |
+| [0540-single-element-in-a-sorted-array](https://github.com/surajcodex666/DSA/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/surajcodex666/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/surajcodex666/DSA/tree/master/0704-binary-search) |
 | [0904-fruit-into-baskets](https://github.com/surajcodex666/DSA/tree/master/0904-fruit-into-baskets) |
@@ -209,6 +210,7 @@ Happy Coding! 💻✨
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/surajcodex666/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/surajcodex666/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0349-intersection-of-two-arrays](https://github.com/surajcodex666/DSA/tree/master/0349-intersection-of-two-arrays) |
+| [0540-single-element-in-a-sorted-array](https://github.com/surajcodex666/DSA/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/surajcodex666/DSA/tree/master/0704-binary-search) |
 | [1004-max-consecutive-ones-iii](https://github.com/surajcodex666/DSA/tree/master/1004-max-consecutive-ones-iii) |
 ## String
