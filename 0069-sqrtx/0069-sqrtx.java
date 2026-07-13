@@ -1,11 +1,7 @@
 class Solution {
     public int mySqrt(int x) {
 
-        if(x == 0 || x == 1){
-            return x;
-        }
-
-        int l = 1, h = x;
+        int l = 0, h = x;
         int ans = 1;
 
         while(l <= h){
