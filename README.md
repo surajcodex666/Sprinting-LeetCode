@@ -160,6 +160,7 @@ Happy Coding! 💻✨
 | [1004-max-consecutive-ones-iii](https://github.com/surajcodex666/DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/surajcodex666/DSA/tree/master/1248-count-number-of-nice-subarrays) |
 | [1480-running-sum-of-1d-array](https://github.com/surajcodex666/DSA/tree/master/1480-running-sum-of-1d-array) |
+| [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/surajcodex666/DSA/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [2942-find-words-containing-character](https://github.com/surajcodex666/DSA/tree/master/2942-find-words-containing-character) |
 | [3668-restore-finishing-order](https://github.com/surajcodex666/DSA/tree/master/3668-restore-finishing-order) |
 | [3838-weighted-word-mapping](https://github.com/surajcodex666/DSA/tree/master/3838-weighted-word-mapping) |
@@ -218,6 +219,7 @@ Happy Coding! 💻✨
 | [0704-binary-search](https://github.com/surajcodex666/DSA/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/surajcodex666/DSA/tree/master/0875-koko-eating-bananas) |
 | [1004-max-consecutive-ones-iii](https://github.com/surajcodex666/DSA/tree/master/1004-max-consecutive-ones-iii) |
+| [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/surajcodex666/DSA/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 ## String
 |  |
 | ------- |
