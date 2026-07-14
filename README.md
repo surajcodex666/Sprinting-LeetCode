@@ -151,6 +151,7 @@ Happy Coding! 💻✨
 | [0540-single-element-in-a-sorted-array](https://github.com/surajcodex666/DSA/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/surajcodex666/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/surajcodex666/DSA/tree/master/0704-binary-search) |
+| [0875-koko-eating-bananas](https://github.com/surajcodex666/DSA/tree/master/0875-koko-eating-bananas) |
 | [0904-fruit-into-baskets](https://github.com/surajcodex666/DSA/tree/master/0904-fruit-into-baskets) |
 | [0905-sort-array-by-parity](https://github.com/surajcodex666/DSA/tree/master/0905-sort-array-by-parity) |
 | [0930-binary-subarrays-with-sum](https://github.com/surajcodex666/DSA/tree/master/0930-binary-subarrays-with-sum) |
@@ -215,6 +216,7 @@ Happy Coding! 💻✨
 | [0349-intersection-of-two-arrays](https://github.com/surajcodex666/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0540-single-element-in-a-sorted-array](https://github.com/surajcodex666/DSA/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/surajcodex666/DSA/tree/master/0704-binary-search) |
+| [0875-koko-eating-bananas](https://github.com/surajcodex666/DSA/tree/master/0875-koko-eating-bananas) |
 | [1004-max-consecutive-ones-iii](https://github.com/surajcodex666/DSA/tree/master/1004-max-consecutive-ones-iii) |
 ## String
 |  |
