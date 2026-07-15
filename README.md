@@ -164,6 +164,7 @@ Happy Coding! 💻✨
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/surajcodex666/DSA/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1480-running-sum-of-1d-array](https://github.com/surajcodex666/DSA/tree/master/1480-running-sum-of-1d-array) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/surajcodex666/DSA/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
+| [1539-kth-missing-positive-number](https://github.com/surajcodex666/DSA/tree/master/1539-kth-missing-positive-number) |
 | [2942-find-words-containing-character](https://github.com/surajcodex666/DSA/tree/master/2942-find-words-containing-character) |
 | [3668-restore-finishing-order](https://github.com/surajcodex666/DSA/tree/master/3668-restore-finishing-order) |
 | [3838-weighted-word-mapping](https://github.com/surajcodex666/DSA/tree/master/3838-weighted-word-mapping) |
@@ -227,6 +228,7 @@ Happy Coding! 💻✨
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/surajcodex666/DSA/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/surajcodex666/DSA/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/surajcodex666/DSA/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
+| [1539-kth-missing-positive-number](https://github.com/surajcodex666/DSA/tree/master/1539-kth-missing-positive-number) |
 ## String
 |  |
 | ------- |
