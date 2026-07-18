@@ -209,6 +209,7 @@ Happy Coding! 💻✨
 | [0349-intersection-of-two-arrays](https://github.com/surajcodex666/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0680-valid-palindrome-ii](https://github.com/surajcodex666/DSA/tree/master/0680-valid-palindrome-ii) |
 | [0905-sort-array-by-parity](https://github.com/surajcodex666/DSA/tree/master/0905-sort-array-by-parity) |
+| [0925-long-pressed-name](https://github.com/surajcodex666/DSA/tree/master/0925-long-pressed-name) |
 | [0969-pancake-sorting](https://github.com/surajcodex666/DSA/tree/master/0969-pancake-sorting) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/surajcodex666/DSA/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2697-lexicographically-smallest-palindrome](https://github.com/surajcodex666/DSA/tree/master/2697-lexicographically-smallest-palindrome) |
@@ -244,6 +245,7 @@ Happy Coding! 💻✨
 | [0424-longest-repeating-character-replacement](https://github.com/surajcodex666/DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0680-valid-palindrome-ii](https://github.com/surajcodex666/DSA/tree/master/0680-valid-palindrome-ii) |
 | [0709-to-lower-case](https://github.com/surajcodex666/DSA/tree/master/0709-to-lower-case) |
+| [0925-long-pressed-name](https://github.com/surajcodex666/DSA/tree/master/0925-long-pressed-name) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/surajcodex666/DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/surajcodex666/DSA/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2697-lexicographically-smallest-palindrome](https://github.com/surajcodex666/DSA/tree/master/2697-lexicographically-smallest-palindrome) |
