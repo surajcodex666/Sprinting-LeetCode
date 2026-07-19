@@ -134,6 +134,7 @@ Happy Coding! 💻✨
 ## Array
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/surajcodex666/DSA/tree/master/0004-median-of-two-sorted-arrays) |
 | [0014-longest-common-prefix](https://github.com/surajcodex666/DSA/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/surajcodex666/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/surajcodex666/DSA/tree/master/0027-remove-element) |
@@ -216,6 +217,7 @@ Happy Coding! 💻✨
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/surajcodex666/DSA/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/surajcodex666/DSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/surajcodex666/DSA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/surajcodex666/DSA/tree/master/0035-search-insert-position) |
@@ -299,4 +301,8 @@ Happy Coding! 💻✨
 | [0680-valid-palindrome-ii](https://github.com/surajcodex666/DSA/tree/master/0680-valid-palindrome-ii) |
 | [0969-pancake-sorting](https://github.com/surajcodex666/DSA/tree/master/0969-pancake-sorting) |
 | [2697-lexicographically-smallest-palindrome](https://github.com/surajcodex666/DSA/tree/master/2697-lexicographically-smallest-palindrome) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/surajcodex666/DSA/tree/master/0004-median-of-two-sorted-arrays) |
 <!---LeetCode Topics End-->
