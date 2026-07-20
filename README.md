@@ -169,6 +169,7 @@ Happy Coding! 💻✨
 | [1480-running-sum-of-1d-array](https://github.com/surajcodex666/DSA/tree/master/1480-running-sum-of-1d-array) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/surajcodex666/DSA/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/surajcodex666/DSA/tree/master/1539-kth-missing-positive-number) |
+| [1901-find-a-peak-element-ii](https://github.com/surajcodex666/DSA/tree/master/1901-find-a-peak-element-ii) |
 | [2643-row-with-maximum-ones](https://github.com/surajcodex666/DSA/tree/master/2643-row-with-maximum-ones) |
 | [2942-find-words-containing-character](https://github.com/surajcodex666/DSA/tree/master/2942-find-words-containing-character) |
 | [3668-restore-finishing-order](https://github.com/surajcodex666/DSA/tree/master/3668-restore-finishing-order) |
@@ -242,6 +243,7 @@ Happy Coding! 💻✨
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/surajcodex666/DSA/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/surajcodex666/DSA/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/surajcodex666/DSA/tree/master/1539-kth-missing-positive-number) |
+| [1901-find-a-peak-element-ii](https://github.com/surajcodex666/DSA/tree/master/1901-find-a-peak-element-ii) |
 ## String
 |  |
 | ------- |
@@ -316,5 +318,6 @@ Happy Coding! 💻✨
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/surajcodex666/DSA/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/surajcodex666/DSA/tree/master/0240-search-a-2d-matrix-ii) |
+| [1901-find-a-peak-element-ii](https://github.com/surajcodex666/DSA/tree/master/1901-find-a-peak-element-ii) |
 | [2643-row-with-maximum-ones](https://github.com/surajcodex666/DSA/tree/master/2643-row-with-maximum-ones) |
 <!---LeetCode Topics End-->
