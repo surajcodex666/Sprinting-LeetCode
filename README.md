@@ -288,6 +288,7 @@ Happy Coding! 💻✨
 | [0066-plus-one](https://github.com/surajcodex666/DSA/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/surajcodex666/DSA/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/surajcodex666/DSA/tree/master/0189-rotate-array) |
+| [0231-power-of-two](https://github.com/surajcodex666/DSA/tree/master/0231-power-of-two) |
 | [1248-count-number-of-nice-subarrays](https://github.com/surajcodex666/DSA/tree/master/1248-count-number-of-nice-subarrays) |
 ## Counting
 |  |
@@ -320,4 +321,12 @@ Happy Coding! 💻✨
 | [0240-search-a-2d-matrix-ii](https://github.com/surajcodex666/DSA/tree/master/0240-search-a-2d-matrix-ii) |
 | [1901-find-a-peak-element-ii](https://github.com/surajcodex666/DSA/tree/master/1901-find-a-peak-element-ii) |
 | [2643-row-with-maximum-ones](https://github.com/surajcodex666/DSA/tree/master/2643-row-with-maximum-ones) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/surajcodex666/DSA/tree/master/0231-power-of-two) |
+## Recursion
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/surajcodex666/DSA/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
