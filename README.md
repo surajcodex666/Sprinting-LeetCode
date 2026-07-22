@@ -289,6 +289,7 @@ Happy Coding! 💻✨
 ## Math
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/surajcodex666/DSA/tree/master/0029-divide-two-integers) |
 | [0066-plus-one](https://github.com/surajcodex666/DSA/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/surajcodex666/DSA/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/surajcodex666/DSA/tree/master/0189-rotate-array) |
@@ -328,6 +329,7 @@ Happy Coding! 💻✨
 ## Bit Manipulation
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/surajcodex666/DSA/tree/master/0029-divide-two-integers) |
 | [0078-subsets](https://github.com/surajcodex666/DSA/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/surajcodex666/DSA/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/surajcodex666/DSA/tree/master/0137-single-number-ii) |
