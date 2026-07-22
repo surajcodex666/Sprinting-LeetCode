@@ -152,6 +152,7 @@ Happy Coding! 💻✨
 | [0162-find-peak-element](https://github.com/surajcodex666/DSA/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/surajcodex666/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/surajcodex666/DSA/tree/master/0189-rotate-array) |
+| [0215-kth-largest-element-in-an-array](https://github.com/surajcodex666/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/surajcodex666/DSA/tree/master/0240-search-a-2d-matrix-ii) |
 | [0260-single-number-iii](https://github.com/surajcodex666/DSA/tree/master/0260-single-number-iii) |
 | [0349-intersection-of-two-arrays](https://github.com/surajcodex666/DSA/tree/master/0349-intersection-of-two-arrays) |
@@ -303,6 +304,7 @@ Happy Coding! 💻✨
 ## Sorting
 |  |
 | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/surajcodex666/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0349-intersection-of-two-arrays](https://github.com/surajcodex666/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0905-sort-array-by-parity](https://github.com/surajcodex666/DSA/tree/master/0905-sort-array-by-parity) |
 | [0969-pancake-sorting](https://github.com/surajcodex666/DSA/tree/master/0969-pancake-sorting) |
@@ -318,6 +320,7 @@ Happy Coding! 💻✨
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/surajcodex666/DSA/tree/master/0004-median-of-two-sorted-arrays) |
+| [0215-kth-largest-element-in-an-array](https://github.com/surajcodex666/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/surajcodex666/DSA/tree/master/0240-search-a-2d-matrix-ii) |
 ## Matrix
 |  |
@@ -344,4 +347,12 @@ Happy Coding! 💻✨
 |  |
 | ------- |
 | [0078-subsets](https://github.com/surajcodex666/DSA/tree/master/0078-subsets) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/surajcodex666/DSA/tree/master/0215-kth-largest-element-in-an-array) |
+## Quickselect
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/surajcodex666/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 <!---LeetCode Topics End-->
