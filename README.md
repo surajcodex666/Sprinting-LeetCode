@@ -147,6 +147,7 @@ Happy Coding! 💻✨
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/surajcodex666/DSA/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0118-pascals-triangle](https://github.com/surajcodex666/DSA/tree/master/0118-pascals-triangle) |
 | [0136-single-number](https://github.com/surajcodex666/DSA/tree/master/0136-single-number) |
+| [0137-single-number-ii](https://github.com/surajcodex666/DSA/tree/master/0137-single-number-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/surajcodex666/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/surajcodex666/DSA/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/surajcodex666/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -328,6 +329,7 @@ Happy Coding! 💻✨
 | ------- |
 | [0078-subsets](https://github.com/surajcodex666/DSA/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/surajcodex666/DSA/tree/master/0136-single-number) |
+| [0137-single-number-ii](https://github.com/surajcodex666/DSA/tree/master/0137-single-number-ii) |
 | [0231-power-of-two](https://github.com/surajcodex666/DSA/tree/master/0231-power-of-two) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/surajcodex666/DSA/tree/master/2220-minimum-bit-flips-to-convert-number) |
 ## Recursion
