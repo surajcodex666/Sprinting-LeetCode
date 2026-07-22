@@ -153,6 +153,7 @@ Happy Coding! 💻✨
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/surajcodex666/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/surajcodex666/DSA/tree/master/0189-rotate-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/surajcodex666/DSA/tree/master/0240-search-a-2d-matrix-ii) |
+| [0260-single-number-iii](https://github.com/surajcodex666/DSA/tree/master/0260-single-number-iii) |
 | [0349-intersection-of-two-arrays](https://github.com/surajcodex666/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0410-split-array-largest-sum](https://github.com/surajcodex666/DSA/tree/master/0410-split-array-largest-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/surajcodex666/DSA/tree/master/0540-single-element-in-a-sorted-array) |
@@ -331,6 +332,7 @@ Happy Coding! 💻✨
 | [0136-single-number](https://github.com/surajcodex666/DSA/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/surajcodex666/DSA/tree/master/0137-single-number-ii) |
 | [0231-power-of-two](https://github.com/surajcodex666/DSA/tree/master/0231-power-of-two) |
+| [0260-single-number-iii](https://github.com/surajcodex666/DSA/tree/master/0260-single-number-iii) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/surajcodex666/DSA/tree/master/2220-minimum-bit-flips-to-convert-number) |
 ## Recursion
 |  |
