@@ -189,6 +189,7 @@ Happy Coding! 💻✨
 | [0347-top-k-frequent-elements](https://github.com/surajcodex666/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/surajcodex666/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0424-longest-repeating-character-replacement](https://github.com/surajcodex666/DSA/tree/master/0424-longest-repeating-character-replacement) |
+| [0451-sort-characters-by-frequency](https://github.com/surajcodex666/DSA/tree/master/0451-sort-characters-by-frequency) |
 | [0560-subarray-sum-equals-k](https://github.com/surajcodex666/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0904-fruit-into-baskets](https://github.com/surajcodex666/DSA/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/surajcodex666/DSA/tree/master/0930-binary-subarrays-with-sum) |
@@ -262,6 +263,7 @@ Happy Coding! 💻✨
 | [0076-minimum-window-substring](https://github.com/surajcodex666/DSA/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/surajcodex666/DSA/tree/master/0125-valid-palindrome) |
 | [0424-longest-repeating-character-replacement](https://github.com/surajcodex666/DSA/tree/master/0424-longest-repeating-character-replacement) |
+| [0451-sort-characters-by-frequency](https://github.com/surajcodex666/DSA/tree/master/0451-sort-characters-by-frequency) |
 | [0680-valid-palindrome-ii](https://github.com/surajcodex666/DSA/tree/master/0680-valid-palindrome-ii) |
 | [0709-to-lower-case](https://github.com/surajcodex666/DSA/tree/master/0709-to-lower-case) |
 | [0925-long-pressed-name](https://github.com/surajcodex666/DSA/tree/master/0925-long-pressed-name) |
@@ -306,6 +308,7 @@ Happy Coding! 💻✨
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/surajcodex666/DSA/tree/master/0347-top-k-frequent-elements) |
+| [0451-sort-characters-by-frequency](https://github.com/surajcodex666/DSA/tree/master/0451-sort-characters-by-frequency) |
 | [0992-subarrays-with-k-different-integers](https://github.com/surajcodex666/DSA/tree/master/0992-subarrays-with-k-different-integers) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/surajcodex666/DSA/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 ## Sorting
@@ -314,6 +317,7 @@ Happy Coding! 💻✨
 | [0215-kth-largest-element-in-an-array](https://github.com/surajcodex666/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/surajcodex666/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/surajcodex666/DSA/tree/master/0349-intersection-of-two-arrays) |
+| [0451-sort-characters-by-frequency](https://github.com/surajcodex666/DSA/tree/master/0451-sort-characters-by-frequency) |
 | [0658-find-k-closest-elements](https://github.com/surajcodex666/DSA/tree/master/0658-find-k-closest-elements) |
 | [0905-sort-array-by-parity](https://github.com/surajcodex666/DSA/tree/master/0905-sort-array-by-parity) |
 | [0969-pancake-sorting](https://github.com/surajcodex666/DSA/tree/master/0969-pancake-sorting) |
@@ -362,6 +366,7 @@ Happy Coding! 💻✨
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/surajcodex666/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/surajcodex666/DSA/tree/master/0347-top-k-frequent-elements) |
+| [0451-sort-characters-by-frequency](https://github.com/surajcodex666/DSA/tree/master/0451-sort-characters-by-frequency) |
 | [0658-find-k-closest-elements](https://github.com/surajcodex666/DSA/tree/master/0658-find-k-closest-elements) |
 ## Quickselect
 |  |
@@ -372,4 +377,5 @@ Happy Coding! 💻✨
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/surajcodex666/DSA/tree/master/0347-top-k-frequent-elements) |
+| [0451-sort-characters-by-frequency](https://github.com/surajcodex666/DSA/tree/master/0451-sort-characters-by-frequency) |
 <!---LeetCode Topics End-->
