@@ -155,6 +155,7 @@ Happy Coding! 💻✨
 | [0215-kth-largest-element-in-an-array](https://github.com/surajcodex666/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/surajcodex666/DSA/tree/master/0240-search-a-2d-matrix-ii) |
 | [0260-single-number-iii](https://github.com/surajcodex666/DSA/tree/master/0260-single-number-iii) |
+| [0347-top-k-frequent-elements](https://github.com/surajcodex666/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/surajcodex666/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0410-split-array-largest-sum](https://github.com/surajcodex666/DSA/tree/master/0410-split-array-largest-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/surajcodex666/DSA/tree/master/0540-single-element-in-a-sorted-array) |
@@ -185,6 +186,7 @@ Happy Coding! 💻✨
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/surajcodex666/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/surajcodex666/DSA/tree/master/0076-minimum-window-substring) |
+| [0347-top-k-frequent-elements](https://github.com/surajcodex666/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/surajcodex666/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0424-longest-repeating-character-replacement](https://github.com/surajcodex666/DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0560-subarray-sum-equals-k](https://github.com/surajcodex666/DSA/tree/master/0560-subarray-sum-equals-k) |
@@ -303,12 +305,14 @@ Happy Coding! 💻✨
 ## Counting
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/surajcodex666/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0992-subarrays-with-k-different-integers](https://github.com/surajcodex666/DSA/tree/master/0992-subarrays-with-k-different-integers) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/surajcodex666/DSA/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 ## Sorting
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/surajcodex666/DSA/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/surajcodex666/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/surajcodex666/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0658-find-k-closest-elements](https://github.com/surajcodex666/DSA/tree/master/0658-find-k-closest-elements) |
 | [0905-sort-array-by-parity](https://github.com/surajcodex666/DSA/tree/master/0905-sort-array-by-parity) |
@@ -327,6 +331,7 @@ Happy Coding! 💻✨
 | [0004-median-of-two-sorted-arrays](https://github.com/surajcodex666/DSA/tree/master/0004-median-of-two-sorted-arrays) |
 | [0215-kth-largest-element-in-an-array](https://github.com/surajcodex666/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/surajcodex666/DSA/tree/master/0240-search-a-2d-matrix-ii) |
+| [0347-top-k-frequent-elements](https://github.com/surajcodex666/DSA/tree/master/0347-top-k-frequent-elements) |
 ## Matrix
 |  |
 | ------- |
@@ -356,9 +361,15 @@ Happy Coding! 💻✨
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/surajcodex666/DSA/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/surajcodex666/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0658-find-k-closest-elements](https://github.com/surajcodex666/DSA/tree/master/0658-find-k-closest-elements) |
 ## Quickselect
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/surajcodex666/DSA/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/surajcodex666/DSA/tree/master/0347-top-k-frequent-elements) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/surajcodex666/DSA/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
