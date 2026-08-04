@@ -152,6 +152,7 @@ Happy Coding! 💻✨
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/surajcodex666/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/surajcodex666/DSA/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/surajcodex666/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0169-majority-element](https://github.com/surajcodex666/DSA/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/surajcodex666/DSA/tree/master/0189-rotate-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/surajcodex666/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/surajcodex666/DSA/tree/master/0240-search-a-2d-matrix-ii) |
@@ -190,6 +191,7 @@ Happy Coding! 💻✨
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/surajcodex666/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/surajcodex666/DSA/tree/master/0076-minimum-window-substring) |
+| [0169-majority-element](https://github.com/surajcodex666/DSA/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/surajcodex666/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/surajcodex666/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0424-longest-repeating-character-replacement](https://github.com/surajcodex666/DSA/tree/master/0424-longest-repeating-character-replacement) |
@@ -314,6 +316,7 @@ Happy Coding! 💻✨
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/surajcodex666/DSA/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/surajcodex666/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/surajcodex666/DSA/tree/master/0451-sort-characters-by-frequency) |
 | [0992-subarrays-with-k-different-integers](https://github.com/surajcodex666/DSA/tree/master/0992-subarrays-with-k-different-integers) |
@@ -322,6 +325,7 @@ Happy Coding! 💻✨
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/surajcodex666/DSA/tree/master/0075-sort-colors) |
+| [0169-majority-element](https://github.com/surajcodex666/DSA/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/surajcodex666/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/surajcodex666/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/surajcodex666/DSA/tree/master/0349-intersection-of-two-arrays) |
@@ -342,6 +346,7 @@ Happy Coding! 💻✨
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/surajcodex666/DSA/tree/master/0004-median-of-two-sorted-arrays) |
+| [0169-majority-element](https://github.com/surajcodex666/DSA/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/surajcodex666/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/surajcodex666/DSA/tree/master/0240-search-a-2d-matrix-ii) |
 | [0347-top-k-frequent-elements](https://github.com/surajcodex666/DSA/tree/master/0347-top-k-frequent-elements) |
@@ -402,4 +407,8 @@ Happy Coding! 💻✨
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/surajcodex666/DSA/tree/master/0075-sort-colors) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/surajcodex666/DSA/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
