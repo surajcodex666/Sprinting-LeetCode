@@ -143,6 +143,7 @@ Happy Coding! 💻✨
 | [0035-search-insert-position](https://github.com/surajcodex666/DSA/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/surajcodex666/DSA/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/surajcodex666/DSA/tree/master/0074-search-a-2d-matrix) |
+| [0075-sort-colors](https://github.com/surajcodex666/DSA/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/surajcodex666/DSA/tree/master/0078-subsets) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/surajcodex666/DSA/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0118-pascals-triangle](https://github.com/surajcodex666/DSA/tree/master/0118-pascals-triangle) |
@@ -220,6 +221,7 @@ Happy Coding! 💻✨
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/surajcodex666/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/surajcodex666/DSA/tree/master/0027-remove-element) |
+| [0075-sort-colors](https://github.com/surajcodex666/DSA/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/surajcodex666/DSA/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/surajcodex666/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/surajcodex666/DSA/tree/master/0189-rotate-array) |
@@ -319,6 +321,7 @@ Happy Coding! 💻✨
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/surajcodex666/DSA/tree/master/0075-sort-colors) |
 | [0215-kth-largest-element-in-an-array](https://github.com/surajcodex666/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/surajcodex666/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/surajcodex666/DSA/tree/master/0349-intersection-of-two-arrays) |
@@ -391,4 +394,12 @@ Happy Coding! 💻✨
 |  |
 | ------- |
 | [0973-k-closest-points-to-origin](https://github.com/surajcodex666/DSA/tree/master/0973-k-closest-points-to-origin) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/surajcodex666/DSA/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/surajcodex666/DSA/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
