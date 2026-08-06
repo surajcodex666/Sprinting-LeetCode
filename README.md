@@ -183,6 +183,7 @@ Happy Coding! 💻✨
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/surajcodex666/DSA/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/surajcodex666/DSA/tree/master/1539-kth-missing-positive-number) |
 | [1901-find-a-peak-element-ii](https://github.com/surajcodex666/DSA/tree/master/1901-find-a-peak-element-ii) |
+| [2149-rearrange-array-elements-by-sign](https://github.com/surajcodex666/DSA/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2643-row-with-maximum-ones](https://github.com/surajcodex666/DSA/tree/master/2643-row-with-maximum-ones) |
 | [2942-find-words-containing-character](https://github.com/surajcodex666/DSA/tree/master/2942-find-words-containing-character) |
 | [3668-restore-finishing-order](https://github.com/surajcodex666/DSA/tree/master/3668-restore-finishing-order) |
@@ -237,6 +238,7 @@ Happy Coding! 💻✨
 | [0925-long-pressed-name](https://github.com/surajcodex666/DSA/tree/master/0925-long-pressed-name) |
 | [0969-pancake-sorting](https://github.com/surajcodex666/DSA/tree/master/0969-pancake-sorting) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/surajcodex666/DSA/tree/master/1385-find-the-distance-value-between-two-arrays) |
+| [2149-rearrange-array-elements-by-sign](https://github.com/surajcodex666/DSA/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2697-lexicographically-smallest-palindrome](https://github.com/surajcodex666/DSA/tree/master/2697-lexicographically-smallest-palindrome) |
 ## Binary Search
 |  |
@@ -286,6 +288,7 @@ Happy Coding! 💻✨
 ## Simulation
 |  |
 | ------- |
+| [2149-rearrange-array-elements-by-sign](https://github.com/surajcodex666/DSA/tree/master/2149-rearrange-array-elements-by-sign) |
 | [3838-weighted-word-mapping](https://github.com/surajcodex666/DSA/tree/master/3838-weighted-word-mapping) |
 ## Sliding Window
 |  |
