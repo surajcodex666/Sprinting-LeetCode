@@ -149,6 +149,7 @@ Happy Coding! 💻✨
 | [0078-subsets](https://github.com/surajcodex666/DSA/tree/master/0078-subsets) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/surajcodex666/DSA/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0118-pascals-triangle](https://github.com/surajcodex666/DSA/tree/master/0118-pascals-triangle) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/surajcodex666/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/surajcodex666/DSA/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/surajcodex666/DSA/tree/master/0137-single-number-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/surajcodex666/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -221,6 +222,7 @@ Happy Coding! 💻✨
 | ------- |
 | [0053-maximum-subarray](https://github.com/surajcodex666/DSA/tree/master/0053-maximum-subarray) |
 | [0118-pascals-triangle](https://github.com/surajcodex666/DSA/tree/master/0118-pascals-triangle) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/surajcodex666/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0410-split-array-largest-sum](https://github.com/surajcodex666/DSA/tree/master/0410-split-array-largest-sum) |
 ## Two Pointers
 |  |
