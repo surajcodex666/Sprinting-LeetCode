@@ -134,6 +134,7 @@ Happy Coding! 💻✨
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/surajcodex666/DSA/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/surajcodex666/DSA/tree/master/0004-median-of-two-sorted-arrays) |
 | [0014-longest-common-prefix](https://github.com/surajcodex666/DSA/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/surajcodex666/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
@@ -194,6 +195,7 @@ Happy Coding! 💻✨
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/surajcodex666/DSA/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/surajcodex666/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/surajcodex666/DSA/tree/master/0076-minimum-window-substring) |
 | [0169-majority-element](https://github.com/surajcodex666/DSA/tree/master/0169-majority-element) |
