@@ -151,6 +151,7 @@ Happy Coding! 💻✨
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/surajcodex666/DSA/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0118-pascals-triangle](https://github.com/surajcodex666/DSA/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/surajcodex666/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0128-longest-consecutive-sequence](https://github.com/surajcodex666/DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/surajcodex666/DSA/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/surajcodex666/DSA/tree/master/0137-single-number-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/surajcodex666/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -200,6 +201,7 @@ Happy Coding! 💻✨
 | [0001-two-sum](https://github.com/surajcodex666/DSA/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/surajcodex666/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/surajcodex666/DSA/tree/master/0076-minimum-window-substring) |
+| [0128-longest-consecutive-sequence](https://github.com/surajcodex666/DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/surajcodex666/DSA/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/surajcodex666/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/surajcodex666/DSA/tree/master/0349-intersection-of-two-arrays) |
@@ -456,4 +458,8 @@ Happy Coding! 💻✨
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/surajcodex666/DSA/tree/master/0204-count-primes) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/surajcodex666/DSA/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
