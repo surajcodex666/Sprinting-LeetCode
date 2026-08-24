@@ -144,6 +144,7 @@ Happy Coding! 💻✨
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/surajcodex666/DSA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/surajcodex666/DSA/tree/master/0035-search-insert-position) |
 | [0053-maximum-subarray](https://github.com/surajcodex666/DSA/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/surajcodex666/DSA/tree/master/0055-jump-game) |
 | [0066-plus-one](https://github.com/surajcodex666/DSA/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/surajcodex666/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/surajcodex666/DSA/tree/master/0074-search-a-2d-matrix) |
@@ -230,6 +231,7 @@ Happy Coding! 💻✨
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/surajcodex666/DSA/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/surajcodex666/DSA/tree/master/0055-jump-game) |
 | [0118-pascals-triangle](https://github.com/surajcodex666/DSA/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/surajcodex666/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0410-split-array-largest-sum](https://github.com/surajcodex666/DSA/tree/master/0410-split-array-largest-sum) |
@@ -362,6 +364,7 @@ Happy Coding! 💻✨
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/surajcodex666/DSA/tree/master/0055-jump-game) |
 | [0410-split-array-largest-sum](https://github.com/surajcodex666/DSA/tree/master/0410-split-array-largest-sum) |
 | [0455-assign-cookies](https://github.com/surajcodex666/DSA/tree/master/0455-assign-cookies) |
 | [0680-valid-palindrome-ii](https://github.com/surajcodex666/DSA/tree/master/0680-valid-palindrome-ii) |
